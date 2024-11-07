@@ -42,17 +42,35 @@ get_next_line (prototype : char *get_next_line(int fd))
 
 ## ft_printf
 
-Description a venir
+Passons desormais au projet ft_printf ! Ce projet avait pour but de nous faire reproduire une partie de la vraie fonction printf existant dans les librairies de C. A l'aide de la documentation de cette fonction d'origine nous avions a reproduire le systeme pour faire imprimer des chaines de caracteres, des nombres ainsi que de l'hexadecimal.
 
 ### Détails techniques
 
 #### Utilisation
 
-aide d'utilisation a venir
+1. **Téléchargez le dossier** : Récupérez le dossier `ft_printf` de ce répertoire.
+2. **Compilation** : Allez dans le dossier `ft_printf` et compilez la librairie avec la commande suivante :
+    ```bash
+    make
+    ```
+   Après compilation, un fichier `ft_printf.a` sera créé dans le dossier.
+3. **Ajoutez la bibliothèque à votre projet** :
+   - Copiez les fichiers `ft_printf.a` et `ft_printf.h` dans le dossier de votre projet.
+   - Incluez `ft_printf.h` dans vos fichiers `.c` pour pouvoir utiliser la fonction dans votre projet :
+      ```c
+      #include "./chemin-vers-le-fichier/ft_printf.h"
+      ```
+      (Remplacez `"chemin-vers-le-fichier"` par le chemin vers `ft_printf.h`)
+
+4. **Compilation de votre programme avec get_next_line** :
+   - Utilisez la commande suivante pour compiler un fichier `exemple.c` avec `ft_printf.a` :
+      ```bash
+      cc exemple.c ./ft_printf.a -o monExec
+      ```
 
 #### Liste de fonctions utilisable publiquement
 
-liste de fonction a venir
+ft_printf (prototype : int	ft_printf(const char *strbase, ...))
 
 ## Born2beroot
 

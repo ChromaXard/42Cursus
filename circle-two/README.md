@@ -74,17 +74,11 @@ ft_printf (prototype : int	ft_printf(const char *strbase, ...))
 
 ## Born2beroot
 
-Description a venir
+Pour le dernier projet de ce cercle il va y avoir qu'une description detaillant ce que l'on devait faire dans l'ensemble. Cela est du car le projet en lui meme etait une realisation d'un setup precis ainsi que la mise en place d'un bon nombre de parametres sur une machine virtuelle.
 
-### Détails techniques
+Pour rentrer dans le vif du sujet, nous avions du coup a mettre en place une machine virtuelle sous l'os Debian (qui est une version de Linux) avec une interface en ligne de commande. Quand on parle d'interface en ligne de commande, c'est une interface sans fenetre, sans souris utilisable, seule chose que l'on peut utiliser est un clavier, pour ecrire du texte et faire une ligne de commande qui sera interprete par le systeme par la suite.
 
-#### Utilisation
-
-aide d'utilisation a venir
-
-#### Liste de fonctions utilisable publiquement
-
-liste de fonction a venir
+Pour la suite de ce projet nous devions mettre en place differentes application en place sur notre VM (virtual machine, machine virtuelle en francais). Ces dernieres etaient un systeme de connexion SSH qui permet de se connecter a la VM depuis un point distant, un firewall pour restreindre en partie les connexions, mettre en place une politique de mot de passe, ainsi qu'un script de monitoring ce qui permet d'avoir des metriques de la machine a une certaine intervale de temps ainsi que d'autres plus petits details mais cela serait un peu trop long a expliquer dans un readme.
 
 ## Auteurs
 

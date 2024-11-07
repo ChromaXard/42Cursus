@@ -40,6 +40,38 @@ Des projets plus complexe, mais plus intéressants à mon goût ainsi que l'arri
    - so_long/FdF/fract-ol (so_long fait)
    - exam rank 02
 
+### quatrième cercle
+Un grand saut en avant dans la complexité des projets
+- Projets : 
+   - Minishell
+   - Philosophers
+   - exam rank 03
+
+### cinquième cercle
+Toujours un peu plus complexe, mais celui ci plus sympathique à mon goût, nouveau langage également
+- Projets : 
+   - CPP Modules 00 à 04
+   - NetPractice
+   - cub3d
+   - exam rank 04
+
+### sixième cercle
+Des projets toujours un peu plus complexe mais se rapprochant de la réalité
+- Projets : 
+   - CPP Modules 05 à 09
+   - webserv/ft_irc (ft_irc fait)
+   - inception
+   - exam rank 05
+
+### septième cercle
+Dernier cercle, un très grand nouveau bond niveau difficulté pour le dernier projet
+- Projets : 
+   - ft_transcendence
+   - exam rank 06
+
+### Post tronc commun
+J'en suis rendu ici, pour l'instant encore aucun projet choisi pour moi, mais cela ne serait tarder
+
 ## Auteurs
 
 Créé par [Kastler Axel](https://github.com/ChromaXard)

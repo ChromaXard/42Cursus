@@ -34,7 +34,7 @@ Pour utiliser cette librairie, suivez les étapes suivantes :
 4. **Compilation de votre programme avec libft** :
    - Utilisez la commande suivante pour compiler un fichier `exemple.c` avec `libft.a` :
       ```bash
-      cc exemple.c -L./libft.a -o monExec
+      cc exemple.c ./libft.a -o monExec
       ```
 
 #### Liste de Fonctions

@@ -1,76 +1,84 @@
 # 42 Personal Cursus Presentation
 
-Bienvenue dans ce dépôt Github, ce dernier retrace tout mon parcours personnel au sein du network de 42
+Bienvenue dans ce dépôt GitHub ! Il retrace l'ensemble de mon parcours à 42, une école de développement en peer-learning, où chaque projet m'a permis de renforcer mes compétences techniques et ma capacité à résoudre des problèmes de manière autonome. Vous trouverez ici les projets du tronc commun, classés par cercles, et des informations sur ma progression et mes apprentissages.
 
+(D'ailleurs pour ceux étant étudiants de 42, je vous déconseille de copier mon code, n'oubliez pas que la triche est interdite)
 
 ### Sommaire :
-1. Présentation personelle
-2. Mon avis sur 42
-3. Liste des cercles du tronc commun avec les différents projets que j'ai fait
+1. [Présentation personnelle](#présentation-personnelle)
+2. [Mon avis sur 42](#mon-avis-sur-42)
+3. [Les cercles du tronc commun](#les-cercles-du-tronc-commun)
+4. [Post-tronc commun](#post-tronc-commun)
+5. [Auteurs](#auteurs)
 
-## 1. Présentation personelle 
 
-Bonjour, moi c'est Kastler Axel. Je suis le créateur de ce dépôt et je suis également en formation à 42 Mulhouse (pour les curieux faisant partie de 42, voilà [mon profil](https://profile.intra.42.fr/users/akastler)). Pour faire ma présentation rapide je suis âgé de 20 ans au moment ou j'écris ce readme. Concernant mon parcours scolaire et professionnel, j'ai passé un baccalauréat professionnel dans le domaine des systèmes numériques (option RISC) que j'ai obtenu, puis je me suis directement dirigé vers 42 Mulhouse pour acroitre mes connaissances dans le développement. J'ai fait partie de la piscine de Juillet 2022, ayant été accepté j'ai fait ma rentré le 31 octobre de cette même année. Depuis j'ai terminé le tronc commun (le 22 octobre 2024). Depuis je suis à la recherche d'une entreprise pour un futur stage
+## Présentation personnelle
 
-## 2. Mon avis sur 42
+Bonjour, moi c'est Kastler Axel, étudiant à 42 Mulhouse et créateur de ce dépôt GitHub. [Voici mon profil 42](https://profile.intra.42.fr/users/akastler) pour ceux qui souhaitent en savoir plus. 
+
+J'ai 20 ans au moment de l'écriture de ce README. Mon parcours scolaire comprend un baccalauréat professionnel en systèmes numériques (option RISC), après lequel je me suis directement orienté vers 42 Mulhouse pour approfondir mes connaissances en développement. J'ai participé à la piscine de juillet 2022 et, ayant été accepté, j'ai commencé le cursus le 31 octobre 2022. J'ai terminé le tronc commun le 22 octobre 2024 et suis actuellement en recherche d'une entreprise pour un stage.
+
+
+## Mon avis sur 42
 
 42 et son système d'apprentissage est très impressionnant au départ quand on le regarde de loin, mais une fois à l'intérieur du système tout roule comme si de rien était. C'est une expérience et un enrichissement de connaissances dans le développement augmantant peu à peu au fur et à mesure des projets que l'on fait. Pour tout ceux intéréssés par ce domaine je vous conseille de vous lancer, ça vous fera une belle nouvelle expérience avec un bon petit pactole de rebondissements
 
-## 3. Liste des cercles du tronc commun avec les différents projets que j'ai fait
+## Les cercles du tronc commun
 
-Pour aborder le sujet rapidement, dans le tron commun de 42 il y a un total de 7 cercles de projets que je vais vous montrer rapidement, vous pourrez retrouver plus de détails dans les dossiers de ce dépôt
+Le tronc commun de 42 est organisé en 7 cercles, chacun avec des projets d'une complexité croissante. Voici un aperçu des projets réalisés à chaque étape, que vous retrouverez également dans les dossiers de ce dépôt.
 
-### premier cercle
-Un seul projet sur celui ci, l'introduction du cursus
-- Projets :
+### Premier cercle
+Ce cercle se concentre sur les bases, avec un projet d'introduction à la programmation en C :
+- **Projets :**
    - Libft
 
-### second cercle
-La suite de l'introduction avec un nouveau domaine
-- Projets : 
+### Deuxième cercle
+On continue avec des projets orientés système et des premiers pas vers la programmation bas niveau.
+- **Projets :**
    - Born2beroot
    - ft_printf
-   - get next line
+   - get_next_line
 
-### troisième cercle
-Des projets plus complexe, mais plus intéressants à mon goût ainsi que l'arrivée du premier exam machine du tronc commun
-- Projets : 
+### Troisième cercle
+Les projets deviennent plus complexes et intéressants, avec un premier exam machine du tronc commun.
+- **Projets :**
    - push_swap
    - pipex/minitalk (pipex fait)
    - so_long/FdF/fract-ol (so_long fait)
    - exam rank 02
 
-### quatrième cercle
-Un grand saut en avant dans la complexité des projets
-- Projets : 
+### Quatrième cercle
+Les projets se complexifient, abordant des concepts avancés de programmation et de systèmes.
+- **Projets :**
    - Minishell
    - Philosophers
    - exam rank 03
 
-### cinquième cercle
-Toujours un peu plus complexe, mais celui ci plus sympathique à mon goût, nouveau langage également
-- Projets : 
+### Cinquième cercle
+Introduction de nouveaux langages et concepts, ce cercle est à la fois complexe et captivant.
+- **Projets :**
    - CPP Modules 00 à 04
    - NetPractice
    - cub3d
    - exam rank 04
 
-### sixième cercle
-Des projets toujours un peu plus complexe mais se rapprochant de la réalité
-- Projets : 
+### Sixième cercle
+Les projets se rapprochent de la réalité professionnelle, simulant des situations concrètes de développement.
+- **Projets :**
    - CPP Modules 05 à 09
    - webserv/ft_irc (ft_irc fait)
    - inception
    - exam rank 05
 
-### septième cercle
-Dernier cercle, un très grand nouveau bond niveau difficulté pour le dernier projet
-- Projets : 
+### Septième cercle
+Le dernier cercle présente un défi de taille avec un projet final complexe et avancé.
+- **Projets :**
    - ft_transcendence
    - exam rank 06
 
-### Post tronc commun
-J'en suis rendu ici, pour l'instant encore aucun projet choisi pour moi, mais cela ne serait tarder
+## Post-tronc commun
+
+À ce stade, j'ai terminé le tronc commun et j'entame maintenant la phase post-tronc commun. Aucun projet spécifique n'a encore été sélectionné par ma part, mais cela ne serait tarder.
 
 ## Auteurs
 

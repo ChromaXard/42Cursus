@@ -1,6 +1,6 @@
-# Troisième Cercle - 42 Projects
+# Quatrième Cercle - 42 Projects
 
-Dans ce second cercle, les projets se concentrent sur des compétences de programmation avancées, notamment la gestion de processus, la synchronisation, et l'implémentation de fonctionnalités de shell. Ces projets visent à nous familiariser avec des concepts de bas niveau en programmation système et à renforcer notre compréhension des interactions utilisateur-machine.
+Dans ce troisième cercle, les projets se concentrent sur des compétences de programmation avancées, notamment la gestion de processus, la synchronisation, et l'implémentation de fonctionnalités de shell. Ces projets visent à nous familiariser avec des concepts de bas niveau en programmation système et à renforcer notre compréhension des interactions utilisateur-machine.
 
 ### Liste de Projets
 

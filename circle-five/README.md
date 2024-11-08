@@ -1,4 +1,4 @@
-# Quatrième Cercle - 42 Projects
+# Cinquième Cercle - 42 Projects
 
 Dans ce quatrième cercle, les projets se concentrent sur des compétences de programmation avancées, notamment la gestion de processus, la synchronisation, et l'implémentation de fonctionnalités de shell. Ces projets visent à nous familiariser avec des concepts de bas niveau en programmation système et à renforcer notre compréhension des interactions utilisateur-machine.
 

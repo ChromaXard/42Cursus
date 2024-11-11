@@ -84,6 +84,8 @@ Le dernier cercle présente un défi de taille avec un projet final complexe et 
 
 ## Informations annexes
 
+La plupart des projets ont été conçus sous un environement de travail Ubuntu, les commandes, installation ou autres peuvent ne pas fonctionner si vous utiliser un autre système.
+
 Les différents projets que vous trouverez dans ce répertoire ont été copié depuis mes projets directement rendu pour le cursus de 42, donc certaines informations peuvent être erronés, fausses ou plus d'actualités.
 
 Je re travaillerai les différents projets m'intéressant à l'avenir et ils seront disponibles sur d'autres dépôts de mon github accessible publiquement.

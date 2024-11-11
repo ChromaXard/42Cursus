@@ -55,8 +55,11 @@ sudo apt install build-essential libx11-dev libglfw3-dev libglfw3 xorg-dev
       Le fichier `.cub` est un fichier de configuration définissant les murs, textures, et la position de la caméra dans l'environnement. Vous trouverez des exemples de cartes dans le dossier `maps`.
 
 4. **Commandes du jeu** :
-   - Utilisez les touches directionnelles ou `WASD` pour vous déplacer.
+   - Utilisez les touches `WASD` pour vous déplacer et les flèches directionneles droite et gauche pour déplacer la caméra.
    - Appuyez sur `Echap` pour quitter.
+   - Mouvements bonus :
+      - mouvement de la caméra avec la souris (désactivable avec la touche 'm' de votre clavier). (fonctionalité non stable avec WSL)
+      - l'ouverture et la fermeture de portes avec la touche e de votre clavier
 
 ## NetPractice
 

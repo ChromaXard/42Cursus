@@ -9,7 +9,9 @@ Bienvenue dans ce dépôt GitHub ! Il retrace l'ensemble de mon parcours à 42, 
 2. [Mon avis sur 42](#mon-avis-sur-42)
 3. [Les cercles du tronc commun](#les-cercles-du-tronc-commun)
 4. [Post-tronc commun](#post-tronc-commun)
-5. [Auteurs](#auteurs)
+5. [Informations annexes](#informations-annexes)
+6. [Auteurs](#auteurs)
+
 
 
 ## Présentation personnelle
@@ -79,6 +81,12 @@ Le dernier cercle présente un défi de taille avec un projet final complexe et 
 ## Post-tronc commun
 
 À ce stade, j'ai terminé le tronc commun et j'entame maintenant la phase post-tronc commun. Aucun projet spécifique n'a encore été sélectionné par ma part, mais cela ne serait tarder.
+
+## Informations annexes
+
+Les différents projets que vous trouverez dans ce répertoire ont été copié depuis mes projets directement rendu pour le cursus de 42, donc certaines informations peuvent être erronés, fausses ou plus d'actualités.
+
+Je re travaillerai les différents projets m'intéressant à l'avenir et ils seront disponibles sur d'autres dépôts de mon github accessible publiquement.
 
 ## Auteurs
 

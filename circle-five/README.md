@@ -21,7 +21,7 @@ Dans ce **Cinquième Cercle**, les projets se concentrent sur des compétences d
 Ce projet nous a permis de découvrir et mettre en œuvre plusieurs concepts essentiels, tels que :
 
 - **Raycasting** : calcul de la distance entre la caméra et les objets pour simuler l'effet de la 3D.
-- **Gestion des textures** : affichage de textures sur les murs et simulation de l'éclairage.
+- **Gestion des textures** : affichage de textures sur les murs.
 - **Contrôles utilisateur** : gestion des événements clavier pour déplacer et orienter la caméra dans l'environnement.
 - **Minimap** : représentation de la carte en vue du dessus pour faciliter la navigation.
 

@@ -23,7 +23,7 @@ J'ai 20 ans au moment de l'écriture de ce README. Mon parcours scolaire compren
 
 ## Mon avis sur 42
 
-42 et son système d'apprentissage est très impressionnant au départ quand on le regarde de loin, mais une fois à l'intérieur du système tout roule comme si de rien était. C'est une expérience et un enrichissement de connaissances dans le développement augmantant peu à peu au fur et à mesure des projets que l'on fait. Pour tout ceux intéréssés par ce domaine je vous conseille de vous lancer, ça vous fera une belle nouvelle expérience avec un bon petit pactole de rebondissements
+42 et son système d'apprentissage est très impressionnant au départ quand on le regarde de loin, mais une fois à l'intérieur du système tout roule comme si de rien était. C'est une expérience et un enrichissement de connaissances dans le développement, augmentant peu à peu au fur et à mesure des projets que l'on fait. Pour tous ceux intéressés par ce domaine, je vous conseille de vous lancer, ça vous fera une belle nouvelle expérience avec un bon petit pactole de rebondissements
 
 ## Les cercles du tronc commun
 
